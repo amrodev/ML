@@ -4,6 +4,10 @@
     1. <a href="https://github.com/amrodev/My-RoadMap-To-AI-1-ML-/tree/master/Supervised%20Learning/Regressions/1%20Linear%20Regression/1.%20Salary%20Dataset%20-%20Simple%20linear%20regression">Salary Dataset - Simple linear regression</a>
     2. <a href="https://github.com/amrodev/My-RoadMap-To-AI-1-ML-/tree/master/Supervised%20Learning/Regressions/1%20Linear%20Regression/2.%20Ecommerce%20Customers">Ecommerce Customers </a>
 ## CLASSIFICATION
+- Logistic Regression
+   1. Binary Classification
+   2. Multi Classification
+   3. Project
 # UNSUPERVISED LEARNING
 # GENERAL TOPICS
 ## FEATURE ENGINEERING
