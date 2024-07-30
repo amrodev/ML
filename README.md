@@ -8,6 +8,7 @@
    1. Binary Classification
    2. Multi Classification
    3. Project
+- <a href="">KNN</a>   
 # UNSUPERVISED LEARNING
 # GENERAL TOPICS
 ## FEATURE ENGINEERING
