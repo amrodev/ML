@@ -8,7 +8,7 @@
    1. Binary Classification
    2. Multi Classification
    3. Project
-- <a href="">KNN</a>   
+- <a href="https://github.com/amrodev/My-RoadMap-To-AI-1-ML-/tree/master/Supervised%20Learning/Classifications/2.%20KNN">KNN</a>   
 # UNSUPERVISED LEARNING
 # GENERAL TOPICS
 ## FEATURE ENGINEERING
